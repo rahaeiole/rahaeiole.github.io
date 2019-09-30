@@ -1,0 +1,14 @@
+.section {
+    padding: 3rem 0 7rem;
+    text-align: center;
+}
+
+#qr {
+    padding-top: 2rem;
+}
+
+#generate-button:disabled,
+#generate-button:hover {
+    color: #999;
+    border: 1px solid #bbb;
+}
